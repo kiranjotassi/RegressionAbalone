@@ -1,2 +1,4 @@
 # RegressionAbalone
-Abalone Dataset regresssion example. 
+Abalone is a species of mollusc,that has an outer lining made of mother of pearl. Predicting the age of an abalone is a difficult process, in which the mollusc must be split open to determine the number of rings on the inside. This project uses the abalone data set to predict the age of an abalone, which is usually the number of rings + 1.5. using the regression machine learning algorithm, this project attempts to determine the age of the mollusc depending on data that has already been collected. The normal process of determining the age of a mollusc is difficult and time consuming, as the shell has to be split, stained and then the rings have to be counted through a microscope, however, by using regression and a decision tree, the processing time is cut down drastically. 
+
+Link to Youtube Video: https://youtu.be/EtftNo38Mv4 
